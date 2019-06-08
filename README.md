@@ -19,6 +19,12 @@ Hard-coded to a sample transaction on Kylin (edit store.js)
 
 Only tested with Google login provider 
 
+Supports only one permission (rather than an array)
+
+## Issues
+
+Prompts the user to select Google account every time is signs a transaction
+
 
 ## Project setup
 ```
